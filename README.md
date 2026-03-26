@@ -30,18 +30,19 @@
 
 ## 🧑‍💻 Tentang Saya
 
-```typescript
-const ihya = {
-  name:     "Ihya' Nashirudin Abrar",
-  username: "ihyaabrar",
-  role:     "Mobile & Web Developer",
-  method:   "Data Analysis & Mining 📊",
-  location: "Indonesia 🇮🇩",
-  email:    "ihyakpati1144@gmail.com",
-  passion:  ["Building apps", "Clean UI", "Problem solving"],
-  currentProject: "Catetin — Aplikasi Pencatatan Keuangan 💰",
-};
-```
+<div align="center">
+
+| | |
+|:---:|:---|
+| 👤 | **Ihya' Nashirudin Abrar** |
+| 🎓 | Data Analysis & Data Mining |
+| 💻 | Mobile & Web Developer |
+| � | Indonesia 🇮🇩 |
+| 📧 | ihyakpati1144@gmail.com |
+| 🔨 | Catetin — Aplikasi Pencatatan Keuangan 💰 |
+| ❤️ | Building apps · Clean UI · Problem solving |
+
+</div>
 
 ---
 
