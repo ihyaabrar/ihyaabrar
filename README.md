@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ihya'%20Nashirudin%20Abrar&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Mobile%20%7C%20Web%20Dev%20%7C%20Data%20Analysis&descAlignY=58&descSize=17" width="100%"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Halo!+Saya+Ihya'+%F0%9F%91%8B;Mobile+%26+Web+Developer;Vibe+Coding+Enthusiast;Building+things+with+passion+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Halo!+Saya+Ihya'+%F0%9F%91%8B;Mobile+%26+Web+Developer;Data+Analysis+%26+Mining+%F0%9F%93%8A;Building+things+with+passion+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 <!-- Saweria donation — besar di header -->
 <a href="https://saweria.co/ihyaabrar">
-  <img src="https://img.shields.io/badge/☕%20Traktir%20Kopi%20di%20Saweria-%23FF6B35?style=for-the-badge&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/☕%20%20Traktir%20Kopi%20di%20Saweria%20%20☕-%23FF6B35?style=for-the-badge&logoColor=white" height="52"/>
 </a>
 
 <br/><br/>
