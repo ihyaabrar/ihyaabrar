@@ -16,18 +16,6 @@
 
 ---
 
-## 🧑‍💻 Tentang Saya
-
-👤 **Ihya' Nashirudin Abrar**
-🎓 Data Analysis & Data Mining
-💻 Mobile & Web Developer
-📍 Indonesia 🇮🇩
-📧 ihyakpati1144@gmail.com
-🔨 Sedang mengerjakan **Catetin** — Aplikasi Pencatatan Keuangan 💰
-❤️ Suka: Building apps · Clean UI · Problem solving
-
----
-
 ## � Hubungi Saya
 
 <div align="center">
@@ -46,8 +34,8 @@
 
 <br/>
 
-<a href="https://saweria.co/ihyaabrar">
-  <img src="https://img.shields.io/badge/-%E2%98%95%20%20Traktir%20Kopi%20di%20Saweria%20%20%E2%98%95-FF6B35?style=for-the-badge&logoColor=white" height="56"/>
+<a href="https://saweria.co/ihyaabrar" target="_blank">
+  <img src="https://saweria.co/assets/images/saweria-banner.png" alt="Saweria - Ihya' Nashirudin Abrar" width="380" style="border-radius: 12px"/>
 </a>
 
 <br/><br/>
