@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Saweria-%20Traktir%20Kopi%20%E2%98%95-FF6B35?style=for-the-badge&logo=ko-fi&logoColor=white" height="50"/>
 </a>
 
-<br/><br/>
+<br/>
 
 *Kalau proyek saya bermanfaat, traktir kopi yuk! Sangat diapresiasi* 🙏
 
