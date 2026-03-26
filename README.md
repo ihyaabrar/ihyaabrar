@@ -16,12 +16,12 @@
 
 ---
 
-## � Hubungi Saya
+## 📬 Hubungi Saya
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-ihyakpati1144%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ihyakpati1144@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ihya'%20Nashirudin%20Abrar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihya-nashirudin-abrar-9978a6243)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ihya%20Nashirudin%20Abrar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihya-nashirudin-abrar-9978a6243)
 [![GitHub](https://img.shields.io/badge/GitHub-ihyaabrar-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ihyaabrar)
 
 </div>
@@ -34,13 +34,19 @@
 
 <br/>
 
-<a href="https://saweria.co/ihyaabrar" target="_blank">
-  <img src="https://saweria.co/assets/images/saweria-banner.png" alt="Saweria - Ihya' Nashirudin Abrar" width="380" style="border-radius: 12px"/>
+<a href="https://saweria.co/ihyaabrar">
+  <img src="https://img.shields.io/badge/Saweria-%20Traktir%20Kopi%20%E2%98%95-FF6B35?style=for-the-badge&logo=ko-fi&logoColor=white" height="50"/>
 </a>
 
 <br/><br/>
 
-*Kalau proyek saya bermanfaat, traktir kopi yuk! Sangat diapresiasi 🙏*
+<a href="https://saweria.co/ihyaabrar">
+  <img src="https://img.shields.io/badge/saweria.co%2Fihyaabrar-klik%20untuk%20donasi-FF6B35?style=flat-square&logo=ko-fi&logoColor=white" height="28"/>
+</a>
+
+<br/><br/>
+
+*Kalau proyek saya bermanfaat, traktir kopi yuk! Sangat diapresiasi* 🙏
 
 <br/>
 
