@@ -40,12 +40,6 @@
 
 <br/><br/>
 
-<a href="https://saweria.co/ihyaabrar">
-  <img src="https://img.shields.io/badge/saweria.co%2Fihyaabrar-klik%20untuk%20donasi-FF6B35?style=flat-square&logo=ko-fi&logoColor=white" height="28"/>
-</a>
-
-<br/><br/>
-
 *Kalau proyek saya bermanfaat, traktir kopi yuk! Sangat diapresiasi* 🙏
 
 <br/>
