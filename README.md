@@ -1,16 +1,28 @@
-<div align="center">
+﻿<div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ihya'%20Nashirudin%20Abrar&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Mobile%20%7C%20Web%20Developer%20%7C%20Vibe%20Coder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ihya'%20Nashirudin%20Abrar&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Mobile%20%7C%20Web%20Dev%20%7C%20Data%20Analysis&descAlignY=58&descSize=17" width="100%"/>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Halo!+Saya+Ihya'+%F0%9F%91%8B;Mobile+%26+Web+Developer;Vibe+Coding+Enthusiast;Building+things+with+passion+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
+<!-- Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=ihyaabrar&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/ihyaabrar?style=for-the-badge&color=6366f1&labelColor=1e1b4b)](https://github.com/ihyaabrar?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihya-nashirudin-abrar-9978a6243)
+
+<br/>
+
+<!-- Saweria donation — besar di header -->
+<a href="https://saweria.co/ihyaabrar">
+  <img src="https://img.shields.io/badge/☕%20Traktir%20Kopi%20di%20Saweria-%23FF6B35?style=for-the-badge&logoColor=white" height="40"/>
+</a>
+
+<br/><br/>
+
+> *Kalau proyek saya bermanfaat, traktir kopi yuk! ☕*
 
 </div>
 
@@ -23,7 +35,7 @@ const ihya = {
   name:     "Ihya' Nashirudin Abrar",
   username: "ihyaabrar",
   role:     "Mobile & Web Developer",
-  method:   "Vibe Coding 🎵",
+  method:   "Data Analysis & Mining 📊",
   location: "Indonesia 🇮🇩",
   email:    "ihyakpati1144@gmail.com",
   passion:  ["Building apps", "Clean UI", "Problem solving"],
@@ -65,15 +77,18 @@ const ihya = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ihyaabrar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9&border_color=30363d"/>
+<!-- Menggunakan greptile-stats sebagai alternatif yang lebih stabil -->
+<img src="https://github-stats-alpha.vercel.app/api?username=ihyaabrar&cc=0d1117&tc=6366f1&ic=8b5cf6&bc=30363d" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihyaabrar&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&border_color=30363d"/>
+<br/><br/>
 
-</div>
+<!-- Streak stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=ihyaabrar&theme=tokyonight&border_radius=12&background=0D1117&border=30363D&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&sideLabels=6366F1&dates=8b5cf6)](https://git.io/streak-stats)
 
-<div align="center">
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ihyaabrar&theme=tokyonight&border_radius=12&background=0D1117&border=30363D&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1)](https://git.io/streak-stats)
+<!-- Top languages — pakai alternatif -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihyaabrar&layout=donut&langs_count=8&theme=tokyonight&border_radius=12&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&border_color=30363d&hide=jupyter%20notebook" />
 
 </div>
 
@@ -92,10 +107,10 @@ const ihya = {
 
 ```
 🤖 AI Asisten    → Catat transaksi via chat & suara
-📷 Scan Nota     → OCR offline baca nominal dari foto
+� Scan Nota     → OCR offline baca nominal dari foto
 🎯 Target        → Tracking progress tabungan
 🏆 Achievement   → Sistem pencapaian motivasi
-📊 Laporan       → Grafik visual pengeluaran
+� Laporan       → Grafik visual pengeluaran
 ```
 
 ---
@@ -104,7 +119,7 @@ const ihya = {
 
 <div align="center">
 
-[![Ihya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ihyaabrar&bg_color=0d1117&color=6366f1&line=8b5cf6&point=ffffff&area=true&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ihya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ihyaabrar&bg_color=0d1117&color=6366f1&line=8b5cf6&point=c9d1d9&area=true&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -126,18 +141,7 @@ const ihya = {
 [![Email](https://img.shields.io/badge/Email-ihyakpati1144%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ihyakpati1144@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ihya'%20Nashirudin%20Abrar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihya-nashirudin-abrar-9978a6243)
 [![GitHub](https://img.shields.io/badge/GitHub-ihyaabrar-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ihyaabrar)
-
-</div>
-
----
-
-## ☕ Dukung Saya
-
-<div align="center">
-
-Kalau kamu merasa terbantu dengan proyek-proyek saya, traktir saya kopi yuk! ☕
-
-[![Saweria](https://img.shields.io/badge/Saweria-Traktir%20Kopi%20%E2%98%95-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://saweria.co/ihyaabrar)
+[![Saweria](https://img.shields.io/badge/Saweria-Donasi-FF6B35?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://saweria.co/ihyaabrar)
 
 </div>
 
