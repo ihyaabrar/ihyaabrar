@@ -30,10 +30,15 @@
 
 ## 🧑‍💻 Tentang Saya
 
-<div align="center">
+�� **Ihya' Nashirudin Abrar**
+🎓 Data Analysis & Data Mining
+💻 Mobile & Web Developer
+📍 Indonesia ��🇩
+📧 ihyakpati1144@gmail.com
+🔨 Sedang mengerjakan **Catetin** — Aplikasi Pencatatan Keuangan 💰
+❤️ Suka: Building apps · Clean UI · Problem solving
 
-| | |
-|:---:|:---|
+---:|:---|
 | 👤 | **Ihya' Nashirudin Abrar** |
 | 🎓 | Data Analysis & Data Mining |
 | 💻 | Mobile & Web Developer |
