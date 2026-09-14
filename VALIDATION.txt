@@ -1,0 +1,15 @@
+Local README references checked:
+- ./assets/hero.png
+- ./assets/overview.dark.svg
+- ./assets/overview.light.svg
+- ./assets/languages.dark.svg
+- ./assets/languages.light.svg
+- ./assets/contributions.dark.svg
+- ./assets/contributions.light.svg
+- ./profile-3d-contrib/profile-night-rainbow.svg
+- ./assets/github-snake-dark.svg
+- ./assets/github-snake.svg
+- ./assets/github-snake.svg
+
+Missing local files: 0
+None
