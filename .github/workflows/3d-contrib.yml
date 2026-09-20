@@ -1,0 +1,37 @@
+name: GitHub Profile 3D Contrib
+
+on:
+  schedule:
+    - cron: "57 3 * * *"   # daily, 03:57 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/3d-contrib.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: 3d-contrib
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Draw the contribution calendar in 3D
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit the drawing when it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib
+          git diff --staged --quiet || git commit -m "chore: refresh 3D contribution graph"
+          git push

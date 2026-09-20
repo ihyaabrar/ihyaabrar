@@ -1,5 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="270" viewBox="0 0 760 270">
-  <rect x="1" y="1" width="758" height="268" rx="16" fill="#ffffff" stroke="#d0d7de"/>
-  <text x="380.0" y="127.0" text-anchor="middle" fill="#24292f" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700">Top Languages</text>
-  <text x="380.0" y="163.0" text-anchor="middle" fill="#57606a" font-family="Segoe UI,Arial,sans-serif" font-size="15">Run Profile Cards workflow</text>
-</svg>
+  <rect x="1" y="1" width="758" height="268" rx="18" fill="#FFFFFF" stroke="#D0D7DE"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+  <text x="32" y="46" fill="#24292F" font-size="22" font-weight="700">Top Languages</text>
+  <text x="32" y="74" fill="#57606A" font-size="13">By repository primary language</text>
+  <circle cx="38" cy="100" r="6" fill="#7C83FF"/>
+    <text x="54" y="105" fill="#24292F" font-size="13">TypeScript</text>
+    <rect x="220" y="92" width="380" height="10" rx="5" fill="#EAEEF2"/>
+    <rect x="220" y="92" width="149" height="10" rx="5" fill="#7C83FF"/>
+    <text x="620" y="105" fill="#57606A" font-size="12">39%</text><circle cx="38" cy="125" r="6" fill="#38BDF8"/>
+    <text x="54" y="130" fill="#24292F" font-size="13">Python</text>
+    <rect x="220" y="117" width="380" height="10" rx="5" fill="#EAEEF2"/>
+    <rect x="220" y="117" width="99" height="10" rx="5" fill="#38BDF8"/>
+    <text x="620" y="130" fill="#57606A" font-size="12">26%</text><circle cx="38" cy="150" r="6" fill="#22C55E"/>
+    <text x="54" y="155" fill="#24292F" font-size="13">Jupyter Notebook</text>
+    <rect x="220" y="142" width="380" height="10" rx="5" fill="#EAEEF2"/>
+    <rect x="220" y="142" width="66" height="10" rx="5" fill="#22C55E"/>
+    <text x="620" y="155" fill="#57606A" font-size="12">17%</text><circle cx="38" cy="175" r="6" fill="#F59E0B"/>
+    <text x="54" y="180" fill="#24292F" font-size="13">JavaScript</text>
+    <rect x="220" y="167" width="380" height="10" rx="5" fill="#EAEEF2"/>
+    <rect x="220" y="167" width="66" height="10" rx="5" fill="#F59E0B"/>
+    <text x="620" y="180" fill="#57606A" font-size="12">17%</text></g></svg>
